@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-export default function landing() {
+export default function LandingScreen() {
   return (
     <View>
-      <Text>landing</Text>
+      <Text>LandingScreen</Text>
     </View>
   )
 }
